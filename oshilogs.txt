@@ -12,73 +12,56 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Anika =====
-[1]Anika       |09:56:28 | 12-10-2026| login OK @anikaalavina | score=990 rank=6175
-[1]Anika       |09:56:28 | 12-10-2026| serverTime=2026-10-12T09:56:27.000Z local=2026-10-12T09:56:28.047Z
+[1]Anika       |09:50:51 | 13-10-2026| login OK @anikaalavina | score=1080 rank=5751
+[1]Anika       |09:50:51 | 13-10-2026| serverTime=2026-10-13T09:50:51.000Z local=2026-10-13T09:50:51.296Z
 --> [1]Anika menjalankan: Claim Daily
-[1]Anika       |09:56:29 | 12-10-2026| daily: OK +10 poin score=1000
---> [1]Anika menjalankan: Auto All Tasks (8 pending)
-[1]Anika       |09:56:30 | 12-10-2026| [1/8] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anikaalavina/status/2109583621402710331
-[1]Anika       |09:56:30 | 12-10-2026| delay 10s...
-[1]Anika       |09:56:42 | 12-10-2026| [2/8] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anikaalavina/status/2109583695270122472
-[1]Anika       |09:56:42 | 12-10-2026| delay 10s...
-[1]Anika       |09:56:55 | 12-10-2026| [3/8] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anikaalavina/status/2109583799562954959
-[1]Anika       |09:56:55 | 12-10-2026| delay 10s...
-[1]Anika       |09:57:06 | 12-10-2026| [4/8] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Anika       |09:57:06 | 12-10-2026| delay 10s...
-[1]Anika       |09:57:19 | 12-10-2026| [5/8] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anikaalavina/status/2109583610874210078
-[1]Anika       |09:57:19 | 12-10-2026| delay 10s...
-[1]Anika       |09:57:31 | 12-10-2026| [6/8] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anikaalavina/status/2109583886256774355
-[1]Anika       |09:57:31 | 12-10-2026| delay 10s...
-[1]Anika       |09:57:44 | 12-10-2026| [7/8] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anikaalavina/status/2109583697288552825
-[1]Anika       |09:57:44 | 12-10-2026| delay 10s...
-[1]Anika       |09:57:55 | 12-10-2026| [8/8] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Anika       |09:57:55 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Anika       |09:57:57 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/anikaalavina/status/2109584047714331756
+[1]Anika       |09:50:53 | 13-10-2026| daily: OK +10 poin score=1090
+--> [1]Anika menjalankan: Auto All Tasks (5 pending)
+[1]Anika       |09:50:55 | 13-10-2026| [1/5] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anikaalavina/status/2109944665289378243
+[1]Anika       |09:50:55 | 13-10-2026| delay 10s...
+[1]Anika       |09:51:08 | 13-10-2026| [2/5] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anikaalavina/status/2109944561099578744
+[1]Anika       |09:51:08 | 13-10-2026| delay 10s...
+[1]Anika       |09:51:21 | 13-10-2026| [3/5] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anikaalavina/status/2109944811562047603
+[1]Anika       |09:51:21 | 13-10-2026| delay 10s...
+[1]Anika       |09:51:33 | 13-10-2026| [4/5] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/anikaalavina/status/2109944851455577957
+[1]Anika       |09:51:33 | 13-10-2026| delay 10s...
+[1]Anika       |09:51:47 | 13-10-2026| [5/5] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Anika       |09:51:47 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Anika       |09:51:50 | 13-10-2026| [1/1] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/anikaalavina/status/2109944700348823319
 --> [1]Anika menjalankan: Watch Anime
-[1]Anika       |09:57:57 | 12-10-2026| watch: 1 video belum completed: oshi-first-journey
-[1]Anika       |09:57:57 | 12-10-2026| watch [1/1] farming oshi-first-journey...
-[1]Anika       |09:57:58 | 12-10-2026| watch oshi-first-journey: mulai dari 0 (record 66.6s diabaikan)
-[1]Anika       |09:57:59 | 12-10-2026| watch oshi-first-journey: 76% (66.57/87.00s)
-[1]Anika       |09:58:05 | 12-10-2026| watch oshi-first-journey: 76% (66.57/87.00s)
-[1]Anika       |09:58:11 | 12-10-2026| watch oshi-first-journey: 76% (66.83/87.00s)
-[1]Anika       |09:58:17 | 12-10-2026| watch oshi-first-journey: 76% (66.83/87.00s)
-[1]Anika       |09:58:23 | 12-10-2026| watch oshi-first-journey: 76% (66.98/87.00s)
-[1]Anika       |09:58:29 | 12-10-2026| watch oshi-first-journey: 76% (66.98/87.00s)
-[1]Anika       |09:58:35 | 12-10-2026| watch oshi-first-journey: 76% (66.98/87.00s)
-[1]Anika       |09:58:42 | 12-10-2026| watch oshi-first-journey: 76% (66.98/87.00s)
-[1]Anika       |09:58:48 | 12-10-2026| watch oshi-first-journey: 76% (66.98/87.00s)
-[1]Anika       |09:58:54 | 12-10-2026| watch oshi-first-journey: 80% (69.61/87.00s)
-[1]Anika       |09:59:00 | 12-10-2026| watch oshi-first-journey: 86% (75.22/87.00s)
-[1]Anika       |09:59:06 | 12-10-2026| watch oshi-first-journey: 88% (77.24/87.00s)
-[1]Anika       |09:59:12 | 12-10-2026| watch oshi-first-journey: 88% (77.24/87.00s)
-[1]Anika       |09:59:19 | 12-10-2026| watch oshi-first-journey: 88% (77.32/87.00s)
-[1]Anika       |09:59:25 | 12-10-2026| watch oshi-first-journey: 95% (83.10/87.00s)
-[1]Anika       |09:59:25 | 12-10-2026| watch oshi-first-journey: COMPLETED (83.10/87.00s)
+[1]Anika       |09:51:51 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Anika       |09:51:51 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Anika       |09:51:53 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Anika       |09:51:58 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Anika       |09:52:00 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Anika       |09:52:05 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Anika       |09:52:07 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Anika menjalankan: Read Article
-[1]Anika       |09:59:26 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Anika       |09:59:26 | 12-10-2026| mint eligibility: {"userId":"1774440051088519170","youtube":{"url":"https://www.youtube.com/@anikalavina","status":"submitted","revision":"90cae8c0-1849-4654-874b-3ddb65bbee06","submittedAt":1791675237,"reviewedAt":179
-[1]Anika       |09:59:26 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Anika       |09:52:09 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Anika       |09:52:09 | 13-10-2026| mint eligibility: {"userId":"1774440051088519170","youtube":{"url":"https://www.youtube.com/@anikalavina","status":"submitted","revision":"90cae8c0-1849-4654-874b-3ddb65bbee06","submittedAt":1791675237,"reviewedAt":179
+[1]Anika       |09:52:09 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Anika menjalankan: Quiz Anime
-[1]Anika       |09:59:26 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Anika       |09:59:26 | 12-10-2026| quiz ep2: sudah dijawab
-[1]Anika       |09:59:26 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Anika       |09:59:26 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Anika       |09:59:26 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Anika       |09:59:26 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Anika       |09:52:10 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Anika       |09:52:10 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Anika       |09:52:10 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Anika       |09:52:10 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Anika       |09:52:10 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Anika       |09:52:10 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Anika menjalankan: Music Missions (realtime, bisa lama!)
-[1]Anika       |09:59:28 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Anika       |09:59:28 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Anika       |09:59:28 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Anika       |09:59:28 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Anika       |09:52:13 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Anika       |09:52:13 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Anika       |09:52:13 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Anika       |09:52:13 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Anika menjalankan: Claim Missions
-[1]Anika       |09:59:29 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Anika       |09:59:29 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Anika       |09:59:29 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Anika       |09:52:14 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Anika       |09:52:14 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Anika       |09:52:14 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Anika menjalankan: Check Eligibility
 
 --- eligibility [1]Anika ---
-  @anikaalavina | score=990 rank=6175
-  tasks    [##################--] 72/80
+  @anikaalavina | score=1080 rank=5751
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -86,17 +69,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=true mintOpen=false discord=true
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Anika menjalankan: Read Manga
-[1]Anika       |09:59:32 | 12-10-2026| manga: 0/13 chapter belum completed
+[1]Anika       |09:52:19 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Anika menjalankan: Get Gift
-[1]Anika       |09:59:34 | 12-10-2026| gift: 0/3 belum diterima
+[1]Anika       |09:52:19 | 13-10-2026| gift: 0/3 belum diterima
 --> [1]Anika menjalankan: Setup Profile
-[1]Anika       |09:59:34 | 12-10-2026| profile: bio="https://x.com/anikaalavina" fav=yuki rewardAt=1791708433
-[1]Anika       |09:59:34 | 12-10-2026| profile: bonus sudah diklaim, skip
+[1]Anika       |09:52:20 | 13-10-2026| profile: bio="https://x.com/anikaalavina" fav=yuki rewardAt=1791708433
+[1]Anika       |09:52:20 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Anika menjalankan: Bind Wallet
-[1]Anika       |09:59:34 | 12-10-2026| wallet: sudah terikat BnoXc8BEMe... (solana)
+[1]Anika       |09:52:21 | 13-10-2026| wallet: sudah terikat BnoXc8BEMe... (solana)
 
 == RINGKASAN ==
-- Anika: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
+- Anika: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
