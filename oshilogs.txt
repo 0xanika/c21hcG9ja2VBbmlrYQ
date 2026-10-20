@@ -12,86 +12,155 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Anika =====
-[1]Anika       |08:15:25 | 19-10-2026| login OK @anikaalavina | score=1450 rank=4705
-[1]Anika       |08:15:25 | 19-10-2026| serverTime=2026-10-19T08:15:25.000Z local=2026-10-19T08:15:25.330Z
+[1]Anika       |08:00:39 | 20-10-2026| login OK @anikaalavina | score=1560 rank=4464
+[1]Anika       |08:00:39 | 20-10-2026| serverTime=2026-10-20T08:00:39.000Z local=2026-10-20T08:00:39.241Z
 --> [1]Anika menjalankan: Claim Daily
-[1]Anika       |08:15:26 | 19-10-2026| daily: OK +10 poin score=1460
---> [1]Anika menjalankan: Auto All Tasks (10 pending)
-[1]Anika       |08:15:28 | 19-10-2026| [1/10] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/anikaalavina/status/2112094978111992799
-[1]Anika       |08:15:28 | 19-10-2026| delay 10s...
-[1]Anika       |08:15:41 | 19-10-2026| [2/10] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/anikaalavina/status/2112094761438773560
-[1]Anika       |08:15:41 | 19-10-2026| delay 10s...
-[1]Anika       |08:15:53 | 19-10-2026| [3/10] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/anikaalavina/status/2112094820735620086
-[1]Anika       |08:15:53 | 19-10-2026| delay 10s...
-[1]Anika       |08:16:06 | 19-10-2026| [4/10] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/anikaalavina/status/2112094997978004257
-[1]Anika       |08:16:06 | 19-10-2026| delay 10s...
-[1]Anika       |08:16:18 | 19-10-2026| [5/10] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/anikaalavina/status/2112094982483278235
-[1]Anika       |08:16:18 | 19-10-2026| delay 10s...
-[1]Anika       |08:16:31 | 19-10-2026| [6/10] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/anikaalavina/status/2112095210063890144
-[1]Anika       |08:16:31 | 19-10-2026| delay 10s...
-[1]Anika       |08:16:44 | 19-10-2026| [7/10] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/anikaalavina/status/2112095216553039711
-[1]Anika       |08:16:44 | 19-10-2026| delay 10s...
-[1]Anika       |08:16:57 | 19-10-2026| [8/10] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/anikaalavina/status/2112095104538210647
-[1]Anika       |08:16:57 | 19-10-2026| delay 10s...
-[1]Anika       |08:17:09 | 19-10-2026| [9/10] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/anikaalavina/status/2112095063729853664
-[1]Anika       |08:17:09 | 19-10-2026| delay 10s...
-[1]Anika       |08:17:22 | 19-10-2026| [10/10] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/anikaalavina/status/2112095443551266035
-[1]Anika       |08:17:22 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Anika       |08:17:24 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/anikaalavina/status/2112095371308229870
+[1]Anika       |08:00:40 | 20-10-2026| daily: OK +10 poin score=1570
+--> [1]Anika menjalankan: Auto All Tasks (6 pending)
+[1]Anika       |08:00:42 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/anikaalavina/status/2112453448274084249
+[1]Anika       |08:00:42 | 20-10-2026| delay 10s...
+[1]Anika       |08:00:55 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/anikaalavina/status/2112453645833945637
+[1]Anika       |08:00:55 | 20-10-2026| delay 10s...
+[1]Anika       |08:01:07 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/anikaalavina/status/2112453563273759974
+[1]Anika       |08:01:07 | 20-10-2026| delay 10s...
+[1]Anika       |08:01:20 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/anikaalavina/status/2112453697999876779
+[1]Anika       |08:01:20 | 20-10-2026| delay 10s...
+[1]Anika       |08:01:32 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/anikaalavina/status/2112453832869292775
+[1]Anika       |08:01:32 | 20-10-2026| delay 10s...
+[1]Anika       |08:01:44 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/anikaalavina/status/2112453725231802648
+[1]Anika       |08:01:44 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Anika       |08:01:46 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/anikaalavina/status/2112453691643137315
 --> [1]Anika menjalankan: Watch Anime
-[1]Anika       |08:17:25 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Anika       |08:17:25 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Anika       |08:17:27 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Anika       |08:17:32 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Anika       |08:17:34 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Anika       |08:17:39 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Anika       |08:17:41 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Anika       |08:17:46 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Anika       |08:17:48 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Anika       |08:01:47 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Anika       |08:01:47 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Anika       |08:01:49 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Anika       |08:01:55 | 20-10-2026| watch oshi-captains-hat: 5% (5.25/92.00s)
+[1]Anika       |08:02:02 | 20-10-2026| watch oshi-captains-hat: 12% (11.08/92.00s)
+[1]Anika       |08:02:10 | 20-10-2026| watch oshi-captains-hat: 18% (17.41/92.00s)
+[1]Anika       |08:02:16 | 20-10-2026| watch oshi-captains-hat: 25% (23.61/92.00s)
+[1]Anika       |08:02:22 | 20-10-2026| watch oshi-captains-hat: 32% (29.86/92.00s)
+[1]Anika       |08:02:29 | 20-10-2026| watch oshi-captains-hat: 38% (35.77/92.00s)
+[1]Anika       |08:02:35 | 20-10-2026| watch oshi-captains-hat: 44% (41.26/92.00s)
+[1]Anika       |08:02:41 | 20-10-2026| watch oshi-captains-hat: 50% (46.77/92.00s)
+[1]Anika       |08:02:47 | 20-10-2026| watch oshi-captains-hat: 57% (52.69/92.00s)
+[1]Anika       |08:02:54 | 20-10-2026| watch oshi-captains-hat: 63% (58.31/92.00s)
+[1]Anika       |08:03:00 | 20-10-2026| watch oshi-captains-hat: 69% (63.76/92.00s)
+[1]Anika       |08:03:07 | 20-10-2026| watch oshi-captains-hat: 75% (69.25/92.00s)
+[1]Anika       |08:03:13 | 20-10-2026| watch oshi-captains-hat: 82% (75.50/92.00s)
+[1]Anika       |08:03:19 | 20-10-2026| watch oshi-captains-hat: 88% (81.03/92.00s)
+[1]Anika       |08:03:25 | 20-10-2026| watch oshi-captains-hat: 94% (86.50/92.00s)
+[1]Anika       |08:03:25 | 20-10-2026| watch oshi-captains-hat: COMPLETED (86.50/92.00s)
+[1]Anika       |08:03:30 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Anika       |08:03:32 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Anika       |08:03:38 | 20-10-2026| watch oshi-rainbow-star: 6% (5.39/86.00s)
+[1]Anika       |08:03:44 | 20-10-2026| watch oshi-rainbow-star: 12% (10.88/86.00s)
+[1]Anika       |08:03:50 | 20-10-2026| watch oshi-rainbow-star: 19% (16.36/86.00s)
+[1]Anika       |08:03:57 | 20-10-2026| watch oshi-rainbow-star: 25% (22.04/86.00s)
+[1]Anika       |08:04:03 | 20-10-2026| watch oshi-rainbow-star: 32% (27.56/86.00s)
+[1]Anika       |08:04:09 | 20-10-2026| watch oshi-rainbow-star: 38% (33.08/86.00s)
+[1]Anika       |08:04:15 | 20-10-2026| watch oshi-rainbow-star: 44% (38.56/86.00s)
+[1]Anika       |08:04:21 | 20-10-2026| watch oshi-rainbow-star: 51% (44.06/86.00s)
+[1]Anika       |08:04:28 | 20-10-2026| watch oshi-rainbow-star: 57% (49.64/86.00s)
+[1]Anika       |08:04:34 | 20-10-2026| watch oshi-rainbow-star: 65% (56.12/86.00s)
+[1]Anika       |08:04:41 | 20-10-2026| watch oshi-rainbow-star: 71% (61.61/86.00s)
+[1]Anika       |08:04:47 | 20-10-2026| watch oshi-rainbow-star: 78% (67.14/86.00s)
+[1]Anika       |08:04:53 | 20-10-2026| watch oshi-rainbow-star: 84% (72.93/86.00s)
+[1]Anika       |08:04:59 | 20-10-2026| watch oshi-rainbow-star: 91% (78.59/86.00s)
+[1]Anika       |08:04:59 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (78.59/86.00s)
+[1]Anika       |08:05:04 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Anika       |08:05:06 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Anika       |08:05:25 | 20-10-2026| watch oshi-rainbow-lighthouse: 5% (5.18/87.00s)
+[1]Anika       |08:05:31 | 20-10-2026| watch oshi-rainbow-lighthouse: 5% (5.18/87.00s)
+[1]Anika       |08:05:38 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.82/87.00s)
+[1]Anika       |08:05:44 | 20-10-2026| watch oshi-rainbow-lighthouse: 18% (16.46/87.00s)
+[1]Anika       |08:05:50 | 20-10-2026| watch oshi-rainbow-lighthouse: 25% (21.97/87.00s)
+[1]Anika       |08:05:56 | 20-10-2026| watch oshi-rainbow-lighthouse: 31% (27.44/87.00s)
+[1]Anika       |08:06:02 | 20-10-2026| watch oshi-rainbow-lighthouse: 38% (33.26/87.00s)
+[1]Anika       |08:06:09 | 20-10-2026| watch oshi-rainbow-lighthouse: 44% (38.75/87.00s)
+[1]Anika       |08:06:15 | 20-10-2026| watch oshi-rainbow-lighthouse: 50% (44.23/87.00s)
+[1]Anika       |08:06:21 | 20-10-2026| watch oshi-rainbow-lighthouse: 57% (49.76/87.00s)
+[1]Anika       |08:06:27 | 20-10-2026| watch oshi-rainbow-lighthouse: 63% (55.22/87.00s)
+[1]Anika       |08:06:33 | 20-10-2026| watch oshi-rainbow-lighthouse: 69% (60.83/87.00s)
+[1]Anika       |08:06:39 | 20-10-2026| watch oshi-rainbow-lighthouse: 76% (66.34/87.00s)
+[1]Anika       |08:06:45 | 20-10-2026| watch oshi-rainbow-lighthouse: 80% (69.82/87.00s)
+[1]Anika       |08:07:23 | 20-10-2026| watch oshi-rainbow-lighthouse: posisi mentok tanpa completed, stop
+[1]Anika       |08:07:28 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Anika       |08:07:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Anika       |08:07:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.22/181.00s)
+[1]Anika       |08:07:42 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.73/181.00s)
+[1]Anika       |08:07:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.29/181.00s)
+[1]Anika       |08:07:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (21.75/181.00s)
+[1]Anika       |08:08:02 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.27/181.00s)
+[1]Anika       |08:08:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.81/181.00s)
+[1]Anika       |08:08:14 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (39.30/181.00s)
+[1]Anika       |08:08:20 | 20-10-2026| watch bakeru-ikesou-jan-mv: 24% (44.91/181.00s)
+[1]Anika       |08:08:27 | 20-10-2026| watch bakeru-ikesou-jan-mv: 27% (50.43/181.00s)
+[1]Anika       |08:08:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.52/181.00s)
+[1]Anika       |08:08:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.00/181.00s)
+[1]Anika       |08:08:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: 37% (67.53/181.00s)
+[1]Anika       |08:08:51 | 20-10-2026| watch bakeru-ikesou-jan-mv: 40% (73.02/181.00s)
+[1]Anika       |08:08:58 | 20-10-2026| watch bakeru-ikesou-jan-mv: 43% (78.59/181.00s)
+[1]Anika       |08:09:04 | 20-10-2026| watch bakeru-ikesou-jan-mv: 46% (84.28/181.00s)
+[1]Anika       |08:09:10 | 20-10-2026| watch bakeru-ikesou-jan-mv: 49% (89.92/181.00s)
+[1]Anika       |08:09:16 | 20-10-2026| watch bakeru-ikesou-jan-mv: 52% (95.46/181.00s)
+[1]Anika       |08:09:23 | 20-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.10/181.00s)
+[1]Anika       |08:09:29 | 20-10-2026| watch bakeru-ikesou-jan-mv: 58% (106.63/181.00s)
+[1]Anika       |08:09:35 | 20-10-2026| watch bakeru-ikesou-jan-mv: 61% (112.15/181.00s)
+[1]Anika       |08:09:41 | 20-10-2026| watch bakeru-ikesou-jan-mv: 65% (117.67/181.00s)
+[1]Anika       |08:09:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: 68% (123.67/181.00s)
+[1]Anika       |08:09:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 71% (129.13/181.00s)
+[1]Anika       |08:10:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 74% (134.63/181.00s)
+[1]Anika       |08:10:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 77% (140.07/181.00s)
+[1]Anika       |08:10:18 | 20-10-2026| watch bakeru-ikesou-jan-mv: 80% (145.75/181.00s)
+[1]Anika       |08:10:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 80% (145.75/181.00s)
+[1]Anika       |08:10:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 83% (151.28/181.00s)
+[1]Anika       |08:10:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: 86% (156.78/181.00s)
+[1]Anika       |08:10:42 | 20-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.26/181.00s)
+[1]Anika       |08:10:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: 92% (167.92/181.00s)
+[1]Anika       |08:10:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (167.92/181.00s)
 --> [1]Anika menjalankan: Read Article
-[1]Anika       |08:17:49 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Anika       |08:17:50 | 19-10-2026| mint eligibility: {"userId":"1774440051088519170","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@anikalavina","status":"submitted","revision":"90cae8c0-1849-4654-874b-3ddb65bbee
-[1]Anika       |08:17:50 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Anika       |08:10:50 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Anika       |08:10:50 | 20-10-2026| mint eligibility: {"userId":"1774440051088519170","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@anikalavina","status":"submitted","revision":"90cae8c0-1849-4654-874b-3ddb65bbee
+[1]Anika       |08:10:50 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Anika menjalankan: Quiz Anime
-[1]Anika       |08:17:50 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Anika       |08:17:50 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Anika       |08:17:50 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Anika       |08:17:50 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Anika       |08:17:50 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Anika       |08:17:50 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Anika       |08:10:51 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Anika       |08:10:51 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Anika       |08:10:51 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Anika       |08:10:51 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Anika       |08:10:51 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Anika       |08:10:51 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Anika menjalankan: Music Missions (realtime, bisa lama!)
-[1]Anika       |08:17:53 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Anika       |08:17:53 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Anika       |08:17:53 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Anika       |08:17:53 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Anika       |08:10:53 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Anika       |08:10:53 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Anika       |08:10:53 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Anika       |08:10:53 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Anika menjalankan: Claim Missions
-[1]Anika       |08:17:54 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Anika       |08:17:54 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Anika       |08:17:54 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Anika       |08:10:54 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Anika       |08:10:54 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Anika       |08:10:54 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Anika menjalankan: Check Eligibility
 
 --- eligibility [1]Anika ---
-  @anikaalavina | score=1450 rank=4705
-  tasks    [##################--] 74/84
+  @anikaalavina | score=1560 rank=4464
+  tasks    [###################-] 74/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 18/17
+  watch    [####################] 21/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Anika menjalankan: Read Manga
-[1]Anika       |08:18:00 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Anika       |08:11:00 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Anika menjalankan: Get Gift
-[1]Anika       |08:18:01 | 19-10-2026| gift: 0/4 belum diterima
+[1]Anika       |08:11:01 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Anika menjalankan: Setup Profile
-[1]Anika       |08:18:01 | 19-10-2026| profile: bio="https://x.com/anikaalavina" fav=yuki rewardAt=1791708433
-[1]Anika       |08:18:01 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Anika       |08:11:02 | 20-10-2026| profile: bio="https://x.com/anikaalavina" fav=yuki rewardAt=1791708433
+[1]Anika       |08:11:02 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Anika menjalankan: Bind Wallet
-[1]Anika       |08:18:02 | 19-10-2026| wallet: sudah terikat BnoXc8BEMe... (solana)
+[1]Anika       |08:11:02 | 20-10-2026| wallet: sudah terikat BnoXc8BEMe... (solana)
 
 == RINGKASAN ==
-- Anika: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Anika: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 3/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
