@@ -12,37 +12,41 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Anika =====
-[1]Anika       |09:59:46 | 05-11-2026| login OK @anikaalavina | score=2840 rank=2734
-[1]Anika       |09:59:46 | 05-11-2026| serverTime=2026-11-05T09:59:46.000Z local=2026-11-05T09:59:46.267Z
+[1]Anika       |10:02:30 | 06-11-2026| login OK @anikaalavina | score=2870 rank=2727
+[1]Anika       |10:02:30 | 06-11-2026| serverTime=2026-11-06T10:02:30.000Z local=2026-11-06T10:02:30.441Z
 --> [1]Anika menjalankan: Claim Daily
-[1]Anika       |09:59:47 | 05-11-2026| daily: OK +10 poin score=2850
---> [1]Anika menjalankan: Auto All Tasks (2 pending)
-[1]Anika       |09:59:49 | 05-11-2026| [1/2] 5ff4a15b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/anikaalavina/status/2118281698004774626
-[1]Anika       |09:59:49 | 05-11-2026| delay 10s...
-[1]Anika       |10:00:01 | 05-11-2026| [2/2] 71a6b26f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/anikaalavina/status/2118281868854880444
-[1]Anika       |10:00:01 | 05-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Anika       |10:00:03 | 05-11-2026| [1/1] 5ff4a15b (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118160028058399 | proof=https://x.com/anikaalavina/status/2118281609758982160
+[1]Anika       |10:02:32 | 06-11-2026| daily: OK +10 poin score=2880
+--> [1]Anika menjalankan: Auto All Tasks (5 pending)
+[1]Anika       |10:02:33 | 06-11-2026| [1/5] 6795f466 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/anikaalavina/status/2118644699689718162
+[1]Anika       |10:02:33 | 06-11-2026| delay 10s...
+[1]Anika       |10:02:45 | 06-11-2026| [2/5] bf0ad10d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/anikaalavina/status/2118644632072520174
+[1]Anika       |10:02:45 | 06-11-2026| delay 10s...
+[1]Anika       |10:02:57 | 06-11-2026| [3/5] edbd5fee (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/anikaalavina/status/2118644711550733442
+[1]Anika       |10:02:57 | 06-11-2026| delay 10s...
+[1]Anika       |10:03:09 | 06-11-2026| [4/5] 122ee3f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/anikaalavina/status/2118644950415789598
+[1]Anika       |10:03:09 | 06-11-2026| delay 10s...
+[1]Anika       |10:03:21 | 06-11-2026| [5/5] 1366d543 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/anikaalavina/status/2118645025851840457
+[1]Anika       |10:03:21 | 06-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Anika       |10:03:23 | 06-11-2026| [1/1] 6795f466 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118602712116027 | proof=https://x.com/anikaalavina/status/2118644896187641225
 --> [1]Anika menjalankan: Watch Anime
-[1]Anika       |10:00:04 | 05-11-2026| watch: semua video sudah completed
+[1]Anika       |10:03:24 | 06-11-2026| watch: semua video sudah completed
 --> [1]Anika menjalankan: Read Article
-[1]Anika       |10:00:05 | 05-11-2026| news: 34/34 artikel selesai dibaca
-[1]Anika       |10:00:06 | 05-11-2026| mint eligibility: {"userId":"1774440051088519170","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@anikalavina","status":"submitted","revision":"90cae8c0-1849-4654-874b-3ddb65bbee
-[1]Anika       |10:00:06 | 05-11-2026| news: semua artikel sudah dibaca
+[1]Anika       |10:03:29 | 06-11-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Anika menjalankan: Quiz Anime
 --> [1]Anika menjalankan: Music Missions (realtime, bisa lama!)
-[1]Anika       |10:00:08 | 05-11-2026| music: kedua misi sudah tercapai, stop
-[1]Anika       |10:00:09 | 05-11-2026| mission music-listens-10: sudah diklaim
-[1]Anika       |10:00:09 | 05-11-2026| mission music-minutes-30: sudah diklaim
-[1]Anika       |10:00:09 | 05-11-2026| mission anime-completed-3: sudah diklaim
+[1]Anika       |10:03:32 | 06-11-2026| music: kedua misi sudah tercapai, stop
+[1]Anika       |10:03:33 | 06-11-2026| mission music-listens-10: sudah diklaim
+[1]Anika       |10:03:33 | 06-11-2026| mission music-minutes-30: sudah diklaim
+[1]Anika       |10:03:33 | 06-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Anika menjalankan: Claim Missions
-[1]Anika       |10:00:09 | 05-11-2026| mission music-listens-10: sudah diklaim
-[1]Anika       |10:00:09 | 05-11-2026| mission music-minutes-30: sudah diklaim
-[1]Anika       |10:00:09 | 05-11-2026| mission anime-completed-3: sudah diklaim
+[1]Anika       |10:03:33 | 06-11-2026| mission music-listens-10: sudah diklaim
+[1]Anika       |10:03:33 | 06-11-2026| mission music-minutes-30: sudah diklaim
+[1]Anika       |10:03:33 | 06-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Anika menjalankan: Check Eligibility
 
 --- eligibility [1]Anika ---
-  @anikaalavina | score=2840 rank=2734
-  tasks    [#######-------------] 1/3
+  @anikaalavina | score=2870 rank=2727
+  tasks    [###-----------------] 1/6
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -53,17 +57,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Anika menjalankan: Read Manga
-[1]Anika       |10:00:13 | 05-11-2026| manga: 0/13 chapter belum completed
+[1]Anika       |10:03:39 | 06-11-2026| manga: 0/13 chapter belum completed
 --> [1]Anika menjalankan: Get Gift
-[1]Anika       |10:00:15 | 05-11-2026| gift: 3/9 belum diterima
-[1]Anika       |10:00:15 | 05-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Anika       |10:00:18 | 05-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Anika       |10:00:21 | 05-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Anika       |10:03:40 | 06-11-2026| gift: 3/9 belum diterima
+[1]Anika       |10:03:41 | 06-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Anika       |10:03:44 | 06-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Anika       |10:03:47 | 06-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Anika menjalankan: Setup Profile
-[1]Anika       |10:00:23 | 05-11-2026| profile: bio="https://x.com/anikaalavina" fav=yuki rewardAt=1791708433
-[1]Anika       |10:00:23 | 05-11-2026| profile: bonus sudah diklaim, skip
+[1]Anika       |10:03:49 | 06-11-2026| profile: bio="https://x.com/anikaalavina" fav=yuki rewardAt=1791708433
+[1]Anika       |10:03:49 | 06-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Anika menjalankan: Bind Wallet
-[1]Anika       |10:00:24 | 05-11-2026| wallet: sudah terikat BnoXc8BEMe... (solana)
+[1]Anika       |10:03:50 | 06-11-2026| wallet: sudah terikat BnoXc8BEMe... (solana)
 
 == RINGKASAN ==
-- Anika: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Anika: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
